@@ -1,6 +1,6 @@
 # SEO Growth Loop
 
-[![Skills](https://skills.sh/b/refreshagent/seo-growth-loop)](https://skills.sh)
+[![Skills](https://skills.sh/b/refreshagent/seo-growth-loop)](https://www.skills.sh/refreshagent/seo-growth-loop/seo-growth-loop)
 
 An agent skill that runs a closed-loop SEO growth workflow using Search Console performance data, keyword demand analysis, SERP Authority Mark checks, and whatever publishing path the project exposes.
 
